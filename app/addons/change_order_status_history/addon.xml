@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>change_order_status_history</id>
+    <version>1.0</version>
+    <default_language>ru</default_language>
+    <name>История изменения статусов заказов</name>
+    <description>История изменения статусов заказов</description>
+    <status>active</status>
+</addon>
